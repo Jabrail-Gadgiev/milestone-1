@@ -2,11 +2,5 @@ Team Name: TEAM TABS
 
 Team Members: Jabrail Gadgiev, Ibrahim Roba, Kymbat Asanbaeva
 
-This project strives to create a simple and efficient way for property owners in services such as AirBnB to notify
-their customers when their time limit is coming to an end. This will assist both the property owners and customers,
-by making it easier to plan around and renew their contracts if necessary. The front end portion of the application
-will consist of a login/sign up page(s), a landing page and a page for users to customize things like how many times
-the customer should be notified, as well as particular aspects of the schedule they are working with. Ideally, the
-user will have access to a number of different host sites (e.g. AirBnB) and they will be able to select one of these.
-In regards to the back end, the application will store data from the users and their customers, and send emails as
-notification to the customers. 
+This project strives to create a simple and efficient way for hosts (property owners) to notify their customers when their time limit is coming to an end. This will assist both the hosts and customers,
+by making it easier to plan around and renew their contracts if necessary. It will also allow hosts to upload their properties for customers to book from. After booking a particular property and date range, that particular property's date range will be unavailable for other customers. The front end portion of the application will consist of a login/sign up page(s) for both host and customer, a landing page with available properties and a page for users to customize things like how many times the customer should be notified, as well as particular aspects of the schedule they are working with. Ideally, the host will also have access to a number of different host sites (e.g. AirBnB) and they will be able to select one of these. In regards to the back end, the application will store data from the users and their customers, and send emails as notification to the customers. 
